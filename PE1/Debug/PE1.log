@@ -1,0 +1,13 @@
+﻿  testProgram.cpp
+  node1imp.cpp
+p:\csci 203 data structures\pe1\pe1\pe1\node1imp.cpp(198): warning C4244: 'initializing': conversion from 'main_savitch_5::node::value_type' to 'int', possible loss of data
+p:\csci 203 data structures\pe1\pe1\pe1\node1imp.cpp(199): warning C4244: 'initializing': conversion from 'main_savitch_5::node::value_type' to 'int', possible loss of data
+p:\csci 203 data structures\pe1\pe1\pe1\node1imp.cpp(205): warning C4244: '=': conversion from 'main_savitch_5::node::value_type' to 'int', possible loss of data
+p:\csci 203 data structures\pe1\pe1\pe1\node1imp.cpp(208): warning C4244: '=': conversion from 'main_savitch_5::node::value_type' to 'int', possible loss of data
+  dnodeimp.cpp
+p:\csci 203 data structures\pe1\pe1\pe1\dnodeimp.cpp(118): warning C4244: 'initializing': conversion from 'main_savitch_5::dnode::value_type' to 'int', possible loss of data
+p:\csci 203 data structures\pe1\pe1\pe1\dnodeimp.cpp(119): warning C4244: 'initializing': conversion from 'main_savitch_5::dnode::value_type' to 'int', possible loss of data
+p:\csci 203 data structures\pe1\pe1\pe1\dnodeimp.cpp(125): warning C4244: '=': conversion from 'main_savitch_5::dnode::value_type' to 'int', possible loss of data
+p:\csci 203 data structures\pe1\pe1\pe1\dnodeimp.cpp(128): warning C4244: '=': conversion from 'main_savitch_5::dnode::value_type' to 'int', possible loss of data
+  Generating Code...
+  PE1.vcxproj -> P:\CSCI 203 Data Structures\PE1\PE1\Debug\PE1.exe
